@@ -1,3 +1,9 @@
+https://ps45-electricity-analytics-1.onrender.com/
+
+
+
+
+
 # PS45 — Electricity Consumption Analytics & Demand Prediction
 
 Full-stack FastAPI dashboard for electricity consumption analytics, demand forecasting and anomaly detection.
