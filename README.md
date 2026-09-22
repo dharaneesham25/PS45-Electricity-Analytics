@@ -25,4 +25,4 @@ uvicorn app:app --reload --port 8000
 The demo dataset is generated automatically on startup, so a large CSV does not need to be committed to GitHub.
 
 
-https://ps45-electricity-analytics-1.onrender.com/
+
